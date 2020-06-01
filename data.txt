@@ -1,0 +1,5 @@
+551;Dimas Rendy;Avanza;Karburator;
+552;Habliansyah;Fortune;Radiator;
+553;Maulana Herdi;Rush;Alternator;
+554;Isan Zakiya;Pajero;Transmisi;
+555;Farhan Ananda;Calya;Suspensi;
